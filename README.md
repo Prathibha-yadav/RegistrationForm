@@ -1,5 +1,6 @@
-Registation Form with Local storage :
-Certainly! Let's break down the project and its functionality in simple terms:
+# **Registation Form with Local storage :**
+
+Deployed Link : https://registration-form-8rw4.onrender.com
 
 **Project Overview:**
 This project is a basic registration form that users can fill out. The information they submit is stored locally, and the entered details are displayed in a table.
@@ -36,3 +37,4 @@ This project is a basic registration form that users can fill out. The informati
 5. **Initializing:**
    - The `displayEntries` function is called on page load to show any existing entries.
 <img width="959" alt="image" src="https://github.com/Prathibha-yadav/RegistrationForm/assets/126705101/1737eaf1-aede-457f-a126-24c0e0239f4c">
+
